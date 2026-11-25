@@ -1,0 +1,2 @@
+# Dependências do projeto
+# Este projeto utiliza bibliotecas padrão do Python para máxima portabilidade.
